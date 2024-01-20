@@ -1,4 +1,4 @@
-![logo](https://github.com/Anindita072001/Anindita072001/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png)
+![logo](https://github.com/Anindita072001/Anindita072001/blob/main/Anindita%20github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anindita Manna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
